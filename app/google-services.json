@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953341752244",
+    "firebase_url": "https://my-application-2843d.firebaseio.com",
+    "project_id": "my-application-2843d",
+    "storage_bucket": "my-application-2843d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953341752244:android:6675f493f5f4446628b8e1",
+        "android_client_info": {
+          "package_name": "com.pthhack22.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953341752244-nl4ip9doufevdsi4ueoisgefeat61pp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pthhack22.myapplication",
+            "certificate_hash": "e1cfdd556be6793505c9b1865046a6dab1e541d6"
+          }
+        },
+        {
+          "client_id": "953341752244-9tddj81637cq2gv5mn1720l9lupkbh93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7IOYdlhftvq29ohv852oRWl-Kf2FlRwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953341752244-9tddj81637cq2gv5mn1720l9lupkbh93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
